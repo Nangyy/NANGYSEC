@@ -89,3 +89,21 @@ I will investigate process creation events and learn how they can help during se
 **Learning in public. One lab at a time. 🔐💻**
 
 #CyberSecurity #Windows #LogAnalysis #EventViewer #SOC #BlueTeam
+
+## Evidence
+
+### Event Viewer Log Analysis
+
+The following screenshots are evidence from my practical Windows Event Viewer lab.
+
+### Screenshot 1
+
+![Windows Event Viewer evidence](IMG_20260814_142035.jpg)
+
+### Screenshot 2
+
+![Windows Event Viewer evidence](IMG_20260814_160219.jpg)
+
+### Screenshot 3
+
+![Windows Event Viewer evidence](IMG_20260814_160258.jpg)
