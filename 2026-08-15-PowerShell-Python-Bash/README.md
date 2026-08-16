@@ -6,13 +6,15 @@ On August 15, 2026, I continued my cybersecurity learning journey by practicing 
 
 I practiced working with PowerShell commands and Windows system information.
 
-![PowerShell Practice](powershell.png)
+![PowerShell Practice](image-1786788640123.jpg)
+
 
 ## Python
 
 I continued building my Python fundamentals.
 
-![Python Practice](python.png)
+![Python Practice](IMG-20260815-WA0034.jpg)
+
 
 ## Bash
 
@@ -23,7 +25,7 @@ I practiced Linux commands and file redirection using:
 - `>`
 - `>>`
 
-![Bash Practice](bash.png)
+![Bash Practice](image-1786829780897.jpg)
 
 ## What I Learned
 
